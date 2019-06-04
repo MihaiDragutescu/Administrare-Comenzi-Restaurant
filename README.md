@@ -1,1 +1,1 @@
-# Administrare-Comenzi-Restaurant (PAO)
+Aplicație ce administrează comenzile dintr-un restaurant și ține evidența angajaților.
