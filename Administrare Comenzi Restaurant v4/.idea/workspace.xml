@@ -1,0 +1,945 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1a9340a7-694e-49b1-8f62-61568389e9e0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/serviciuAudit.csv" beforeDir="false" afterPath="$PROJECT_DIR$/files/serviciuAudit.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Proiect_PAO/META-INF/Proiect_PAO.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Proiect_PAO/administrare/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Proiect_PAO/administrare/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Proiect_PAO/administrare/ServiciuBazaDeDate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Proiect_PAO/administrare/ServiciuBazaDeDate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Proiect_PAO/administrare/TipuriActiuni.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Proiect_PAO/administrare/TipuriActiuni.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Proiect_PAO/gui/AdaugaOspatar$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Proiect_PAO/gui/AdaugaOspatar$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Proiect_PAO/gui/AdaugaProdus$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Proiect_PAO/gui/AdaugaProdus$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Proiect_PAO/gui/Administrator$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Proiect_PAO/gui/Administrator$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Proiect_PAO/gui/Autentificare.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Proiect_PAO/gui/Autentificare.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Proiect_PAO/gui/ComandaOnline$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Proiect_PAO/gui/ComandaOnline$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Proiect_PAO/gui/ComandaOnline.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Proiect_PAO/gui/ComandaOnline.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Proiect_PAO/gui/ComandaSimpla$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Proiect_PAO/gui/ComandaSimpla$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Proiect_PAO/gui/ComandaSimpla.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Proiect_PAO/gui/ComandaSimpla.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Proiect_PAO/gui/ProfilAngajati$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Proiect_PAO/gui/ProfilAngajati$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Proiect_PAO/gui/ProfilAngajati$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Proiect_PAO/gui/ProfilAngajati$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Proiect_PAO/gui/ProfilAngajati.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Proiect_PAO/gui/ProfilAngajati.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Proiect_PAO/gui/StergeOspatar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Proiect_PAO/gui/StergeOspatar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Proiect_PAO/gui/StergeProdus.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Proiect_PAO/gui/StergeProdus.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Proiect_PAO/gui/VeziComenziOnline$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Proiect_PAO/gui/VeziComenziOnline$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Proiect_PAO/gui/VeziComenziOnline.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Proiect_PAO/gui/VeziComenziOnline.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/administrare/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/administrare/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/administrare/ServiciuBazaDeDate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/administrare/ServiciuBazaDeDate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gui/AdaugaOspatar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/AdaugaOspatar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gui/AdaugaProdus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/AdaugaProdus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gui/Administrator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/Administrator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gui/Autentificare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/Autentificare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gui/ComandaOnline.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/ComandaOnline.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gui/ComandaSimpla.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/ComandaSimpla.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gui/ProfilAngajati.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/ProfilAngajati.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gui/StergeOspatar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/StergeOspatar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gui/StergeProdus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/StergeProdus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gui/VeziComenziOnline.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/VeziComenziOnline.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Proiect_PAO$Main.ic" NAME="Main Coverage Results" MODIFIED="1556624040636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="209" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/gui/Administrator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="158" column="47" selection-start-line="158" selection-start-column="47" selection-end-line="158" selection-end-column="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/gui/ProfilAngajati.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/gui/VeziComenziOnline.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="14" column="45" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="45" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/administrare/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/gui/Client.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-842">
+              <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/files/serviciuAudit.csv">
+          <provider selected="true" editor-type-id="csv-text-editor">
+            <state relative-caret-position="466">
+              <caret line="133" column="42" selection-start-line="133" selection-start-column="39" selection-end-line="133" selection-end-column="42" />
+            </state>
+          </provider>
+          <provider editor-type-id="csv-table-editor">
+            <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/administrare/ServiciuAudit.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/administrare/TipuriActiuni.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="76" selection-start-line="10" selection-start-column="76" selection-end-line="10" selection-end-column="76" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/gui/AdaugaOspatar.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="31" column="7" selection-start-line="31" selection-start-column="7" selection-end-line="32" selection-end-column="57" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/gui/ComandaOnline.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4488">
+              <caret line="278" column="50" selection-start-line="278" selection-start-column="50" selection-end-line="278" selection-end-column="50" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>scrolle</find>
+      <find>ospatar</find>
+      <find>lista</find>
+      <find>jlist</find>
+      <find>profil</find>
+      <find>inapo</find>
+      <find>actua</find>
+      <find>client</find>
+      <find>dateclie</find>
+      <find>jop</find>
+      <find>start</find>
+      <find>serviciubazade</find>
+      <find>combo</find>
+      <find>i.</find>
+      <find>list</find>
+      <find>serviciubaz</find>
+      <find>ser</find>
+      <find>servi</find>
+      <find>serviciubazadedate</find>
+      <find>serviciu</find>
+      <find>serv</find>
+      <find>close</find>
+      <find>static</find>
+      <find>runcreare</find>
+      <find>audit</find>
+      <find>serviciubaza</find>
+      <find>audi</find>
+      <find>creare</find>
+      <find>vezi</find>
+      <find>run</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Administrare_comenzi_restaurant/Sortare_produse.java" />
+        <option value="$PROJECT_DIR$/src/Administrare_comenzi_restaurant/Produs.java" />
+        <option value="$PROJECT_DIR$/src/Comenzi/Comanda.java" />
+        <option value="$PROJECT_DIR$/src/Comenzi/Comanda_Speciala.java" />
+        <option value="$PROJECT_DIR$/src/Comenzi/ServiciuClienti.java" />
+        <option value="$PROJECT_DIR$/src/Persoana/Ospatar.java" />
+        <option value="$PROJECT_DIR$/src/Comenzi/ServiciuAdministrator.java" />
+        <option value="$PROJECT_DIR$/src/Comenzi/Serviciu_administrator.java" />
+        <option value="$PROJECT_DIR$/src/Persoana/Client.java" />
+        <option value="$PROJECT_DIR$/src/Comenzi/Comanda_online.java" />
+        <option value="$PROJECT_DIR$/src/Comenzi/Serviciu_clienti.java" />
+        <option value="$PROJECT_DIR$/src/Administrare_comenzi_restaurant/Main.java" />
+        <option value="$PROJECT_DIR$/src/comenzi/ServiciuClientiComandaSpeciala.java" />
+        <option value="$PROJECT_DIR$/src/comenzi/ServiciuClienti.java" />
+        <option value="$PROJECT_DIR$/src/administrare/ServiciuCitire.java" />
+        <option value="$PROJECT_DIR$/src/persoana/Ospatar.java" />
+        <option value="$PROJECT_DIR$/src/comenzi/ServiciuAdministrator.java" />
+        <option value="$PROJECT_DIR$/files/comenziSimple.csv" />
+        <option value="$PROJECT_DIR$/files/ospatari.csv" />
+        <option value="$PROJECT_DIR$/files/comenziOnline.csv" />
+        <option value="$PROJECT_DIR$/files/clienti.csv" />
+        <option value="$PROJECT_DIR$/src/administrare/SortareProduse.java" />
+        <option value="$PROJECT_DIR$/src/administrare/Produs.java" />
+        <option value="$PROJECT_DIR$/src/persoana/Client.java" />
+        <option value="$PROJECT_DIR$/src/administrare/ServiciuCitireFisier.java" />
+        <option value="$PROJECT_DIR$/src/administrare/ServiciuScriereFisier.java" />
+        <option value="$PROJECT_DIR$/files/meniu.csv" />
+        <option value="$PROJECT_DIR$/src/comenzi/ServiciuAdministratorC.java" />
+        <option value="$PROJECT_DIR$/src/gui/edas.form" />
+        <option value="$PROJECT_DIR$/src/gui/Autentificare.form" />
+        <option value="$PROJECT_DIR$/src/gui/Administrator.form" />
+        <option value="$PROJECT_DIR$/src/comenzi/ComandaOnline.java" />
+        <option value="$PROJECT_DIR$/src/comenzi/Comanda.java" />
+        <option value="$PROJECT_DIR$/src/comenzi/ServiciuClientiComandaSimpla.java" />
+        <option value="$PROJECT_DIR$/src/comenzi/ServiciuClientiComandaOnline.java" />
+        <option value="$PROJECT_DIR$/src/administrare/ServiciuAudit.java" />
+        <option value="$PROJECT_DIR$/src/gui/Client.java" />
+        <option value="$PROJECT_DIR$/files/serviciuAudit.csv" />
+        <option value="$PROJECT_DIR$/src/gui/AdaugaOspatar.java" />
+        <option value="$PROJECT_DIR$/src/gui/AdaugaProdus.java" />
+        <option value="$PROJECT_DIR$/src/gui/StergeOspatar.java" />
+        <option value="$PROJECT_DIR$/src/gui/StergeProdus.java" />
+        <option value="$PROJECT_DIR$/src/administrare/ServiciuBazaDeDate.java" />
+        <option value="$PROJECT_DIR$/src/gui/Autentificare.java" />
+        <option value="$PROJECT_DIR$/src/administrare/Main.java" />
+        <option value="$PROJECT_DIR$/src/gui/ComandaSimpla.java" />
+        <option value="$PROJECT_DIR$/src/gui/ComandaOnline.java" />
+        <option value="$PROJECT_DIR$/src/gui/ProfilAngajati.java" />
+        <option value="$PROJECT_DIR$/src/gui/VeziComenziOnline.java" />
+        <option value="$PROJECT_DIR$/src/gui/Administrator.java" />
+        <option value="$PROJECT_DIR$/src/administrare/TipuriActiuni.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-10" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Proiect_PAO" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Proiect_PAO" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Administrare Comenzi Restaurant v3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Administrare Comenzi Restaurant v3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Administrare Comenzi Restaurant v3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Administrare Comenzi Restaurant v3" type="462c0819:PsiDirectoryNode" />
+              <item name="files" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Administrare Comenzi Restaurant v3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Administrare Comenzi Restaurant v3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Administrare Comenzi Restaurant v3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Administrare Comenzi Restaurant v3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="administrare" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Administrare Comenzi Restaurant v3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Administrare Comenzi Restaurant v3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="comenzi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Administrare Comenzi Restaurant v3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Administrare Comenzi Restaurant v3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="gui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Administrare Comenzi Restaurant v3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Administrare Comenzi Restaurant v3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="gui" type="462c0819:PsiDirectoryNode" />
+              <item name="Administrator" type="e9f4de52:FormNode" />
+            </path>
+            <path>
+              <item name="Administrare Comenzi Restaurant v3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Administrare Comenzi Restaurant v3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="gui" type="462c0819:PsiDirectoryNode" />
+              <item name="Client" type="e9f4de52:FormNode" />
+            </path>
+            <path>
+              <item name="Administrare Comenzi Restaurant v3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Administrare Comenzi Restaurant v3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="gui" type="462c0819:PsiDirectoryNode" />
+              <item name="VeziComenziOnline" type="e9f4de52:FormNode" />
+            </path>
+            <path>
+              <item name="Administrare Comenzi Restaurant v3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Administrare Comenzi Restaurant v3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="persoana" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="347" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559477608276" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Mihai\IdeaProjects\Proiect_PAO\src\gui" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Autentificare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gui.Autentificare" />
+      <module name="Proiect_PAO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="administrare.Main" />
+      <module name="Proiect_PAO" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="administrare.Main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="administrare.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Autentificare" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a9340a7-694e-49b1-8f62-61568389e9e0" name="Default Changelist" comment="" />
+      <created>1553631351394</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553631351394</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49858356" visible="true" weight="0.31946307" />
+      <window_info id="Structure" order="1" sideWeight="0.50141644" side_tool="true" weight="0.21744967" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.47919464" weight="0.28895184" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4986577" weight="0.3286119" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.52080536" side_tool="true" weight="0.9575071" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.45033556" weight="0.3286119" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24966443" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.3295302" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.3295302" />
+    </layout>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.idea/project-template.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/encodings.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/description.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/comenzi/ServiciuAdministrator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="32" selection-start-line="11" selection-start-column="6" selection-end-line="19" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/mysql-connector-java-5.1.47/mysql-connector-java-5.1.47/mysql-connector-java-5.1.47.jar!/com/mysql/jdbc/Util.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3910">
+          <caret line="267" selection-start-line="267" selection-end-line="267" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gui/edas.java" />
+    <entry file="file://$PROJECT_DIR$/src/gui/edas.form" />
+    <entry file="file://$PROJECT_DIR$/files/ospatari.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="45" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="45" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state>
+          <caret column="50" selection-start-column="50" selection-end-column="50" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gui/Autentificare.form">
+      <provider selected="true" editor-type-id="ui-designer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gui/Administrator.form">
+      <provider selected="true" editor-type-id="ui-designer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gui/AdaugaOspatar.form">
+      <provider selected="true" editor-type-id="ui-designer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/persoana/Persoana.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/persoana/Ospatar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gui/AdaugaProdus.form">
+      <provider selected="true" editor-type-id="ui-designer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gui/StergeProdus.form">
+      <provider selected="true" editor-type-id="ui-designer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gui/Client.form">
+      <provider selected="true" editor-type-id="ui-designer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gui/ComandaSimpla.form">
+      <provider selected="true" editor-type-id="ui-designer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/administrare/ServiciuScriereFisier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/comenzi/ServiciuClientiComandaSimpla.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2006">
+          <caret line="131" column="65" selection-start-line="130" selection-start-column="19" selection-end-line="131" selection-end-column="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/files/meniu.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/files/comenziSimple.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/files/comenziOnline.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/administrare/ServiciuCitireFisier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="11" column="42" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/comenzi/ServiciuAdministratorC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-170">
+          <caret line="20" column="30" lean-forward="true" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/files/clienti.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/comenzi/ComandaOnline.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gui/StergeOspatar.form">
+      <provider selected="true" editor-type-id="ui-designer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/comenzi/ServiciuClientiComandaOnline.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1768">
+          <caret line="114" column="18" selection-start-line="114" selection-start-column="18" selection-end-line="114" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gui/ComandaOnline.form">
+      <provider selected="true" editor-type-id="ui-designer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/administrare/Produs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="29" column="47" selection-start-line="29" selection-start-column="47" selection-end-line="29" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/comenzi/Comanda.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="13" column="63" selection-start-line="13" selection-start-column="63" selection-end-line="13" selection-end-column="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gui/VeziComenziOnline.form">
+      <provider selected="true" editor-type-id="ui-designer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gui/ProfilAngajati.form">
+      <provider selected="true" editor-type-id="ui-designer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gui/AdaugaProdus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="104" column="101" selection-start-line="104" selection-start-column="101" selection-end-line="104" selection-end-column="101" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gui/StergeProdus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-978">
+          <caret line="20" column="62" selection-start-line="20" selection-start-column="62" selection-end-line="20" selection-end-column="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gui/StergeOspatar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/administrare/ServiciuBazaDeDate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gui/Autentificare.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gui/ComandaSimpla.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3043">
+          <caret line="192" column="50" selection-start-line="192" selection-start-column="50" selection-end-line="192" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gui/AdaugaOspatar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="31" column="7" selection-start-line="31" selection-start-column="7" selection-end-line="32" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gui/ComandaOnline.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4488">
+          <caret line="278" column="50" selection-start-line="278" selection-start-column="50" selection-end-line="278" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gui/ProfilAngajati.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gui/VeziComenziOnline.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="14" column="45" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gui/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-842">
+          <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gui/Administrator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="158" column="47" selection-start-line="158" selection-start-column="47" selection-end-line="158" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/administrare/ServiciuAudit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/administrare/TipuriActiuni.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="76" selection-start-line="10" selection-start-column="76" selection-end-line="10" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/administrare/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/files/serviciuAudit.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="466">
+          <caret line="133" column="42" selection-start-line="133" selection-start-column="39" selection-end-line="133" selection-end-column="42" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Proiect_PAO</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>mysql-connector-java-5.1.47</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
